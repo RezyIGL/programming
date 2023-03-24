@@ -1,2 +1,2 @@
 # programming
-FIaIT_repos_private
+FIaIT_private_repos
