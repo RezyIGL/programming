@@ -1,4 +1,4 @@
-from task_6_1 import merge_start
+from lab_6.task_6_1 import merge_start
 
 
 def test_merge_start():
