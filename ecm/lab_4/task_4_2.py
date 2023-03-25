@@ -7,9 +7,9 @@ def InsertSort(nums: list) -> list:
             temp[index] = temp[index - 1]
             index -= 1
         temp[index] = elem
-        yield temp
+    return temp
 
 input = list(map(int, input().split()))
 
-for i in InsertSort(input):
-    print(*i)
+if __name__ == "__main__":
+    InsertSort()
