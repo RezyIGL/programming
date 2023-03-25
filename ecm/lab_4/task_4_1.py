@@ -5,7 +5,5 @@ def SelectSort(nums: list) -> list:
         temp[i], temp[j] = temp[j], temp[i]
     return temp
 
-input = list(map(int, input().split()))
-
 if __name__ == "__main__":
     SelectSort(input)    

@@ -9,7 +9,5 @@ def InsertSort(nums: list) -> list:
         temp[index] = elem
     return temp
 
-input = list(map(int, input().split()))
-
 if __name__ == "__main__":
     InsertSort()
