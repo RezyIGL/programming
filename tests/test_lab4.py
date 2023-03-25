@@ -8,7 +8,7 @@ class test(unittest.TestCase):
 
         #Positive tests
         self.assertEqual(SelectSort([100, 3, -56, 8]), [-56, 3, 8, 100])
-        self.assertEqual(SelectSort([]), [])
+        self.assertEqual(SelectSort([13, 534, 23, -100]), [-100, 13, 23, 534])
         self.assertEqual(SelectSort([]), [])
         self.assertEqual(SelectSort([]), [])
         self.assertEqual(SelectSort([]), [])
@@ -59,7 +59,7 @@ class test(unittest.TestCase):
 
         #Positive tests
         self.assertEqual(InsertSort([100, 3, -56, 8]), [-56, 3, 8, 100])
-        self.assertEqual(InsertSort([]), [])
+        self.assertEqual(InsertSort([13, 534, 23, -100]), [-100, 13, 23, 534])
         self.assertEqual(InsertSort([]), [])
         self.assertEqual(InsertSort([]), [])
         self.assertEqual(InsertSort([]), [])
@@ -110,7 +110,7 @@ class test(unittest.TestCase):
 
         #Positive tests
         self.assertEqual(NaiveBubbleSort([100, 3, -56, 8]), [-56, 3, 8, 100])
-        self.assertEqual(NaiveBubbleSort([]), [])
+        self.assertEqual(NaiveBubbleSort([13, 534, 23, -100]), [-100, 13, 23, 534])
         self.assertEqual(NaiveBubbleSort([]), [])
         self.assertEqual(NaiveBubbleSort([]), [])
         self.assertEqual(NaiveBubbleSort([]), [])
