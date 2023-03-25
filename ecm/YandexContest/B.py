@@ -1,1 +1,0 @@
-func("clown", None)

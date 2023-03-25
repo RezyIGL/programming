@@ -4,9 +4,7 @@ def NaiveBubbleSort(nums: list) -> list:
         for j in range(len(temp) - 1):
             if temp[j] > temp[j + 1]:
                 temp[j], temp[j + 1] = temp[j + 1], temp[j]
-        yield temp
+    return temp
 
-input = list(map(int, input().split()))
-
-for i in NaiveBubbleSort(input):
-    print(*i)
+if __name__ == "__main__":
+    NaiveBubbleSort()
