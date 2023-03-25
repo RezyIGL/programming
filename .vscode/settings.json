@@ -1,14 +1,11 @@
 {
-    "python.testing.pytestArgs": [
-        "ecm"
-    ],
-    "python.testing.unittestEnabled": true,
-    "python.testing.pytestEnabled": false,
     "python.testing.unittestArgs": [
         "-v",
         "-s",
-        "./ecm",
+        "./tests",
         "-p",
-        "test_*.py"
-    ]
+        "*test*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
 }

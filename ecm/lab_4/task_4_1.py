@@ -3,9 +3,9 @@ def SelectSort(nums: list) -> list:
     for i in range(len(temp)-1):
         j = temp.index(min(temp[i:]))
         temp[i], temp[j] = temp[j], temp[i]
-        yield temp
+    return temp
 
 input = list(map(int, input().split()))
 
-for i in SelectSort(input):
-    print(*i)
+if __name__ == "__main__":
+    SelectSort(input)    
