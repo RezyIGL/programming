@@ -9,7 +9,7 @@ class test(unittest.TestCase):
         #Positive tests
         self.assertEqual(SelectSort([100, 3, -56, 8]), [-56, 3, 8, 100])
         self.assertEqual(SelectSort([13, 534, 23, -100]), [-100, 13, 23, 534])
-        self.assertEqual(SelectSort([]), [])
+        self.assertEqual(SelectSort([123, 12345, 4235, 62345]), sorted([123, 12345, 4235, 62345]))
         self.assertEqual(SelectSort([]), [])
         self.assertEqual(SelectSort([]), [])
         self.assertEqual(SelectSort([]), [])
