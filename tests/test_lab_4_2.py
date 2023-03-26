@@ -14,7 +14,7 @@ class test_Task_2(unittest.TestCase):
 
     def test_3(self):
         iter = [2, 1, 2, 1]
-        self.assertNotEqual(InsertSort(iter), [1, 1, 2, 2])
+        self.assertEqual(InsertSort(iter), [1, 1, 2, 2])
 
     def test_4(self):
         iter = []

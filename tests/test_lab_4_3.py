@@ -14,7 +14,7 @@ class test_Task_3(unittest.TestCase):
 
     def test_3(self):
         iter = [2, 1, 2, 1]
-        self.assertNotEqual(NaiveBubbleSort(iter), [1, 1, 2, 2])
+        self.assertEqual(NaiveBubbleSort(iter), [1, 1, 2, 2])
 
     def test_4(self):
         iter = []
