@@ -11,6 +11,7 @@ test_lab_4_suite.addTest(unittest.makeSuite(test_Task_2))
 from test_task_4_3 import test_Task_3
 test_lab_4_suite.addTest(unittest.makeSuite(test_Task_3))
 
+# KABOOOM!
 
 if __name__ == "__main__":
     runner = unittest.TextTestRunner(verbosity=2)
