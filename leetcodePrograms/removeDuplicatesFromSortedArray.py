@@ -1,9 +1,7 @@
-def removeDuplicates(nums: list) -> int:
-    for i in range(len(nums)-1):
-        aboba = nums[i]
-        while aboba in nums:
-            nums.remove(nums[i])
-        nums.insert(i, aboba)
-    return len(nums), nums
-
-print(removeDuplicates([1, 1, 2]))
+class Solution:
+    def removeDuplicates(self, nums: list) -> int:
+        answ = sorted(set(nums), key=nums.index)
+        k = len(answ)
+        for i in range(k):
+            nums[i] = answ[i]
+        return k
