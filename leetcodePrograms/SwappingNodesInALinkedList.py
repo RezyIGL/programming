@@ -3,7 +3,8 @@ class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
         self.next = next
-        
+
+
 class Solution:
     def swapNodes(self, head: ListNode, k: int) -> ListNode:
         lList = []
@@ -21,5 +22,5 @@ class Solution:
         for i in lList:
             curr.next = ListNode(i)
             curr = curr.next
-        
+
         return head.next
