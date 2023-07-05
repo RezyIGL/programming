@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHubRepos\\programming\\C#_projects\\Hello World\\Hello World.csproj": {}
+    "E:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj": {}
   },
   "projects": {
-    "E:\\GitHubRepos\\programming\\C#_projects\\Hello World\\Hello World.csproj": {
+    "E:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHubRepos\\programming\\C#_projects\\Hello World\\Hello World.csproj",
-        "projectName": "Hello World",
-        "projectPath": "E:\\GitHubRepos\\programming\\C#_projects\\Hello World\\Hello World.csproj",
+        "projectUniqueName": "E:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj",
+        "projectName": "randomInt",
+        "projectPath": "E:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj",
         "packagesPath": "C:\\Users\\onlyr\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHubRepos\\programming\\C#_projects\\Hello World\\obj\\",
+        "outputPath": "E:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VSSDK\\NuGetPackages"
@@ -22,15 +22,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -41,8 +41,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",

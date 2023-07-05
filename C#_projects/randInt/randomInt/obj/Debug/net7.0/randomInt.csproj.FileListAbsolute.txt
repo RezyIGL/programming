@@ -1,0 +1,15 @@
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\bin\Debug\net7.0\randomInt.exe
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\bin\Debug\net7.0\randomInt.deps.json
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\bin\Debug\net7.0\randomInt.runtimeconfig.json
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\bin\Debug\net7.0\randomInt.dll
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\bin\Debug\net7.0\randomInt.pdb
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.csproj.AssemblyReference.cache
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.AssemblyInfoInputs.cache
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.AssemblyInfo.cs
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.dll
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\refint\randomInt.dll
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.pdb
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\randomInt.genruntimeconfig.cache
+E:\GitHubRepos\programming\C#_projects\randInt\randomInt\obj\Debug\net7.0\ref\randomInt.dll
