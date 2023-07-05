@@ -1,0 +1,15 @@
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\bin\Debug\net6.0\ArrayLenRec.exe
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\bin\Debug\net6.0\ArrayLenRec.deps.json
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\bin\Debug\net6.0\ArrayLenRec.runtimeconfig.json
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\bin\Debug\net6.0\ArrayLenRec.dll
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\bin\Debug\net6.0\ArrayLenRec.pdb
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.csproj.AssemblyReference.cache
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.AssemblyInfoInputs.cache
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.AssemblyInfo.cs
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.dll
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\refint\ArrayLenRec.dll
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.pdb
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ArrayLenRec.genruntimeconfig.cache
+E:\GitHubRepos\VS_Folder\C#_projects\ArrayLenRec\obj\Debug\net6.0\ref\ArrayLenRec.dll
