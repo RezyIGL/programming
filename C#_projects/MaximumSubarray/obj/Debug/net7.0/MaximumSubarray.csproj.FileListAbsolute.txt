@@ -1,0 +1,15 @@
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.csproj.AssemblyReference.cache
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.AssemblyInfoInputs.cache
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.AssemblyInfo.cs
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.csproj.CoreCompileInputs.cache
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\bin\Debug\net7.0\MaximumSubarray.exe
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\bin\Debug\net7.0\MaximumSubarray.deps.json
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\bin\Debug\net7.0\MaximumSubarray.runtimeconfig.json
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\bin\Debug\net7.0\MaximumSubarray.dll
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\bin\Debug\net7.0\MaximumSubarray.pdb
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.dll
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\refint\MaximumSubarray.dll
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.pdb
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\MaximumSubarray.genruntimeconfig.cache
+E:\GitHubRepos\programming\C#_projects\MaximumSubarray\obj\Debug\net7.0\ref\MaximumSubarray.dll

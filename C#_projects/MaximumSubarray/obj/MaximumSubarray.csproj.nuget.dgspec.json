@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj": {}
+    "E:\\GitHubRepos\\programming\\C#_projects\\MaximumSubarray\\MaximumSubarray.csproj": {}
   },
   "projects": {
-    "e:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj": {
+    "E:\\GitHubRepos\\programming\\C#_projects\\MaximumSubarray\\MaximumSubarray.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj",
-        "projectName": "randomInt",
-        "projectPath": "e:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\randomInt.csproj",
+        "projectUniqueName": "E:\\GitHubRepos\\programming\\C#_projects\\MaximumSubarray\\MaximumSubarray.csproj",
+        "projectName": "MaximumSubarray",
+        "projectPath": "E:\\GitHubRepos\\programming\\C#_projects\\MaximumSubarray\\MaximumSubarray.csproj",
         "packagesPath": "C:\\Users\\onlyr\\.nuget\\packages\\",
-        "outputPath": "e:\\GitHubRepos\\programming\\C#_projects\\randInt\\randomInt\\obj\\",
+        "outputPath": "E:\\GitHubRepos\\programming\\C#_projects\\MaximumSubarray\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\VSSDK\\NuGetPackages"
